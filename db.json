@@ -1,0 +1,108 @@
+{
+  "pets": [
+    {
+      "input": {
+        "name": "My pet Home",
+        "ciity": "Indore",
+        "address": "C1 615 Karol Bag,",
+        "capacity": "8",
+        "cost": "200",
+        "rating": "8",
+        "image": "https://tse4.mm.bing.net/th?id=OIP._UZqB9AdYLj59QuI9OXVrgHaD2&pid=Api&P=0&w=359&h=186",
+        "details": "We are most prominent and best pet home in the city .You can go anywhere Freely we will do                  take care of your pet in the absence of yours .We have trained employees for your pet we will give good                   quality food to your pet and we have a vast area where pets can freely roam.we also take care of good hygene tat is y                   pets can sleep anywhere they want they have full access of outside we will [provide 22 walks perday please visit                    we will feel honoured"
+      },
+      "id": 1
+    },
+    {
+      "input": {
+        "name": "Best pet house",
+        "ciity": "New delhi",
+        "address": "karol bag",
+        "capacity": "6",
+        "cost": "300",
+        "rating": "7",
+        "image": "https://tse4.mm.bing.net/th?id=OIP.oA7IS4aPcA-nTqZbH-sLGwHaEK&pid=Api&P=0&w=302&h=170",
+        "details": "We are most prominent and best pet home in the city .You can go anywhere Freely we will do                  take care of your pet in the absence of yours .We have trained employees for your pet we will give good                   quality food to your pet and we have a vast area where pets can freely roam.we also take care of good hygene tat is y                   pets can sleep anywhere they want they have full access of outside we will [provide 22 walks perday please visit                    we will feel honoured"
+      },
+      "id": 2
+    },
+    {
+      "input": {
+        "name": "Alsatian pet home",
+        "ciity": "Bhopal",
+        "address": "Vijay Nagar",
+        "capacity": "10",
+        "cost": "150",
+        "rating": "9",
+        "image": "https://tse2.mm.bing.net/th?id=OIP.xTE2vHK4bxmvEJqyMETc0AHaEK&pid=Api&P=0&w=291&h=163",
+        "details": "We are most prominent and best pet home in the city .You can go anywhere Freely we will do                  take care of your pet in the absence of yours .We have trained employees for your pet we will give good                   quality food to your pet and we have a vast area where pets can freely roam.we also take care of good hygene tat is y                   pets can sleep anywhere they want they have full access of outside we will [provide 22 walks perday please visit                    we will feel honoured"
+      },
+      "id": 3
+    },
+    {
+      "input": {
+        "name": "Dog house",
+        "ciity": "Raipur",
+        "address": "Palasiya",
+        "capacity": "5",
+        "cost": "100",
+        "rating": "5",
+        "image": "https://tse2.mm.bing.net/th?id=OIP.UfgjjgA6Y6sYDiwbblv8GAHaE8&pid=Api&P=0&w=231&h=154",
+        "details": "We are most prominent and best pet home in the city .You can go anywhere Freely we will do                  take care of your pet in the absence of yours .We have trained employees for your pet we will give good                   quality food to your pet and we have a vast area where pets can freely roam.we also take care of good hygene tat is y                   pets can sleep anywhere they want they have full access of outside we will [provide 22 walks perday please visit                    we will feel honoured"
+      },
+      "id": 4
+    },
+    {
+      "input": {
+        "name": "Mumbai pet House",
+        "ciity": "Mumbai",
+        "address": "121, Kalra Road ,Mumbai",
+        "capacity": "11",
+        "cost": "500",
+        "rating": "9",
+        "image": "https://tse3.mm.bing.net/th?id=OIP.vdpSw226v7_B_j2mhVle7AHaFj&pid=Api&P=0&w=212&h=159",
+        "details": "We are most prominent and best pet home in the city .You can go anywhere Freely we will do                  take care of your pet in the absence of yours .We have trained employees for your pet we will give good                   quality food to your pet and we have a vast area where pets can freely roam.we also take care of good hygene tat is y                   pets can sleep anywhere they want they have full access of outside we will [provide 22 walks perday please visit                    we will feel honoured"
+      },
+      "id": 5
+    },
+    {
+      "input": {
+        "name": "Kisan pet field",
+        "ciity": "Bhind",
+        "address": "Shastri Nagar colony  no.1 ,Bhind",
+        "capacity": "3",
+        "cost": "100",
+        "rating": "4",
+        "image": "https://tse4.mm.bing.net/th?id=OIP.mIEH0aveADM-zjG0u7tGpwHaED&pid=Api&P=0&w=290&h=158",
+        "details": "We are most prominent and best pet home in the city .You can go anywhere Freely we will do                  take care of your pet in the absence of yours .We have trained employees for your pet we will give good                   quality food to your pet and we have a vast area where pets can freely roam.we also take care of good hygene tat is y                   pets can sleep anywhere they want they have full access of outside we will [provide 22 walks perday please visit                    we will feel honoured"
+      },
+      "id": 6
+    },
+    {
+      "input": {
+        "name": "Abrar pet house",
+        "ciity": "Karachi",
+        "address": "C1 615 Karol Bag,",
+        "capacity": "8",
+        "cost": "900",
+        "rating": "9",
+        "image": "https://tse3.mm.bing.net/th?id=OIP.xknHcOfmdBD53s3INaadIwHaEU&pid=Api&P=0&w=323&h=188",
+        "details": "We are most prominent and best pet home in the city .You can go anywhere Freely we will do                  take care of your pet in the absence of yours .We have trained employees for your pet we will give good                   quality food to your pet and we have a vast area where pets can freely roam.we also take care of good hygene tat is y                   pets can sleep anywhere they want they have full access of outside we will [provide 22 walks perday please visit                    we will feel honoured"
+      },
+      "id": 7
+    },
+    {
+      "input": {
+        "name": "Shakti pet house",
+        "ciity": "Patna",
+        "address": "Gardhani bag,Patna",
+        "capacity": "13",
+        "cost": "1000",
+        "rating": "6",
+        "image": "https://tse2.mm.bing.net/th?id=OIP.qjCMKbsUtvZS1kC1APGcrwHaE8&pid=Api&P=0&w=239&h=159",
+        "details": "my pet home is best in the world because i have power u can see it in my name My name is shakti shakti is a name of goddess but i am male "
+      },
+      "id": 8
+    }
+  ]
+}

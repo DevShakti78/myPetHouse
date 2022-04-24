@@ -1,0 +1,68 @@
+table{
+    width: 80%;
+}
+.border{
+    
+    margin-left:100px;
+    margin-top: 10px;
+    display:flex;
+    gap:40px;
+   
+}
+.table{
+    width:100px;
+    cursor:pointer
+    
+}
+.heading{
+    font-size:20px;
+    font-weight:500;
+    margin-left:100px
+}
+.btn{
+    margin-top:200px;
+    width:200px;
+    height:30px;
+    background-color:black;
+    color:white;
+    font-family:sans-serif;
+    border:none
+}
+.btn:hover{
+    background-color:whitesmoke;
+    color:black;
+    cursor:pointer
+}
+img{
+    width:100px;
+    height:100px
+}
+.head{
+    display:flex;
+    margin-left:140px
+    
+
+}
+a{
+    text-decoration: none;
+    color:black
+}
+.sort_btn{
+    width:200px;
+    height:30px;
+    background-color: black;
+    color:white;
+    
+    border:none
+}
+.sort_btn:hover{
+
+    background-color: whitesmoke;
+    color:black;
+    cursor:pointer
+}
+.border:hover{
+
+    background-color: whitesmoke;
+    
+}
